@@ -11,9 +11,9 @@ result = collections.Counter(text)
 print(result)
 
 # 2
-#
-# word = ['red', 'blue', 'red', 'green', 'blue', 'blue']
-# result = collections.Counter(word)
-# print(result)
+
+word = ['red', 'blue', 'red', 'green', 'blue', 'blue']
+result = collections.Counter(word)
+print(result)
 
 
