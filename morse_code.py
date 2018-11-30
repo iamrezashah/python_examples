@@ -1,5 +1,5 @@
 import winsound
-import time0
+import time
 
 # Morse codes sounds
 def dot():
@@ -15,43 +15,43 @@ def play(str):
 
     def p():
         dot()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dash()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dash()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dot()
-        time0.sleep(sleep_after_words)
+        time.sleep(sleep_after_words)
 
     def i():
         dot()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dot()
-        time0.sleep(sleep_after_words)
+        time.sleep(sleep_after_words)
 
     def h():
         dot()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dot()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dot()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dot()
-        time0.sleep(sleep_after_words)
+        time.sleep(sleep_after_words)
 
     def k():
         dash()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dot()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dash()
-        time0.sleep(sleep_after_words)
+        time.sleep(sleep_after_words)
 
     def a():
         dot()
-        time0.sleep(0.2)
+        time.sleep(0.2)
         dash()
-        time0.sleep(sleep_after_words)
+        time.sleep(sleep_after_words)
 
     p()
     h()
