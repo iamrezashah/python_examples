@@ -1,5 +1,4 @@
-# Reaz Shah
-# 15 August 2018
+# Reaz Shah (instagram: Phika.ir)
 
 # just enter an ***integer number***
 
