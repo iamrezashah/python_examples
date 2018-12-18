@@ -12,11 +12,11 @@ A place to store and reference to my stuff about python
  - Telegram: https://telegram.me/phika/
 
 ## Examples List
-- [all_files_and_directories.py](https://github.com/iamrezashah/python_examples/blob/master/all_files_and_directories.py):
+- [all_files_and_directories.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/all_files_and_directories.py):
 نمایش تمام **فایل ها** و **فولدرها** در یک دایرکتوری
 
-- [all_files_and_directories2.py](https://github.com/iamrezashah/python_examples/blob/master/all_files_and_directories2.py): نمایش تمام 
+- [all_files_and_directories2.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/all_files_and_directories2.py): نمایش تمام 
 **فایل ها** و **فولدرها** در یک دایرکتوری
 
-- [all_files_in_directory.py](https://github.com/iamrezashah/python_examples/blob/master/all_files_in_directory.py): 
+- [all_files_in_directory.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/all_files_in_directory.py): 
 نمایش تمام **فایل ها** در یک دایرکتوری
