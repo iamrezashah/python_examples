@@ -5,9 +5,15 @@ A place to store and reference to my stuff about python
 
 اینجا جایی هستش برای ذخیره کارهای و مثالهای مربوط به پایتون من
 
- - Blog: http://www.phika.ir/
- - Instagram: https://www.instagram.com/phika.ir/
- - Telegram: https://telegram.me/phika/
+1 - **Level1_Examples**: تمرین های ساده مقدماتی از مباحثی که در بیشتر دوره ها مطرح میشود
+
+2 - **Level2_Examples**: تمرین های متوسط
+
+3 - **Level1_Examples**: تمرین های پیشرفته که معمولا در آموزش های پایتون مطرح نمیشود
+
+- Blog: http://www.phika.ir/
+- Instagram: https://www.instagram.com/phika.ir/
+- Telegram: https://telegram.me/phika/
 
 ## Examples List
 - [all_files_and_directories.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/all_files_and_directories.py):
