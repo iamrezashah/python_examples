@@ -26,3 +26,6 @@ A place to store and reference to my stuff about python
 
 - [read_excel_file_2.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/read_excel_file_2.py):
 (کار با فایل **اکسل** (خواندن اکسل با ماژول xlrd
+
+- [create_and_write_in_a_file.py](https://github.com/iamrezashah/python_examples/blob/master/Level2_Examples/create_and_write_in_a_file.py):
+کار با فایل ها - ساخت یک فایل تکست و نوشتن در درون آن
