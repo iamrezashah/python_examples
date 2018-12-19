@@ -6,9 +6,7 @@ A place to store and reference to my stuff about python
 اینجا جایی هستش برای ذخیره کارهای و مثالهای مربوط به پایتون من
 
  - Blog: http://www.phika.ir/
- 
  - Instagram: https://www.instagram.com/phika.ir/
- 
  - Telegram: https://telegram.me/phika/
 
 ## Examples List
