@@ -20,3 +20,9 @@ A place to store and reference to my stuff about python
 
 - [all_files_in_directory.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/all_files_in_directory.py): 
 نمایش تمام **فایل ها** در یک دایرکتوری
+
+- [read_excel_file_1.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/read_excel_file_1.py):
+(کار با فایل **اکسل** (خواندن اکسل با ماژول xlrd
+
+- [read_excel_file_2.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/read_excel_file_2.py):
+(کار با فایل **اکسل** (خواندن اکسل با ماژول xlrd
