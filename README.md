@@ -36,3 +36,6 @@ A place to store and reference to my stuff about python
 
 - [simple_GUI_tkinter.py](https://github.com/iamrezashah/python_examples/blob/master/Level2_Examples/simple_GUI_tkinter.py):
 مثال ساده از ساخت رابط گرافیکی با استفاده از پایتون
+
+- [mouse_control.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/mouse_control.py) 
+کنترل و کار با ماوس کامپیوتر با استفاده از پایتون
