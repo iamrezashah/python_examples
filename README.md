@@ -39,3 +39,6 @@ A place to store and reference to my stuff about python
 
 - [mouse_control.py](https://github.com/iamrezashah/python_examples/blob/master/Level3_Examples/mouse_control.py) 
 کنترل و کار با ماوس کامپیوتر با استفاده از پایتون
+
+- [emojize_in_python.py](https://github.com/iamrezashah/python_examples/blob/master/Level2_Examples/emojize_in_python.py):
+ ایموجی در پایتون
