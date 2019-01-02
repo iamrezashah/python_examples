@@ -42,3 +42,6 @@ A place to store and reference to my stuff about python
 
 - [emojize_in_python.py](https://github.com/iamrezashah/python_examples/blob/master/Level2_Examples/emojize_in_python.py):
  ایموجی در پایتون
+
+- [take_screenshot.py](https://github.com/iamrezashah/python_examples/blob/master/Level2_Examples/take_screenshot.py):
+گرفتن **اسکرین شات** با پایت.ن
